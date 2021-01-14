@@ -1,0 +1,82 @@
+a {
+    text-decoration: none;
+  }
+  body {
+    background-image: radial-gradient(#fff,#ffd6d6);
+    background-repeat: no-repeat;
+  }
+  label {
+    font-family: "Raleway", sans-serif;
+    font-size: 11pt;
+  }
+  #card {
+    background:none;
+    border-radius: 8px;
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+  }
+  #card-content {
+    padding: 12px 44px;
+  }
+  #card-title {
+    font-family: "Raleway Thin", sans-serif;
+    letter-spacing: 4px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+  }
+  .form {
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+  }
+  .form-border {
+    background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+    height: 1px;
+    width: 100%;
+  }
+  .filter{
+    margin-top: 50px;
+  }
+  .form-border button{
+    background:none;
+    border-style: inset;
+    border-color: blue;
+    width: 225px;
+    height: 30px;
+    margin-top: 35px;
+  }
+  .border button{
+    background:none;
+    border-style: inset;
+    border-color: blue;
+    width: 225px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  p{
+    margin-left: 90px;
+    margin-top: 25px;
+    color: grey;
+  }
+  .signup button{
+    background:none;
+    border-style: inset;
+    border-color: blue;
+    width: 225px;
+    height: 30px;
+    margin-top: 30px;
+  }
+  .form-content {
+    background: none;
+    border: none;
+    outline: none;
+    padding-top: 14px;
+  }
+  .underline-title {
+    background: #ff523b;
+    height: 2px;
+    margin: -1.1rem auto 0 auto;
+    width: 89px;
+  }
